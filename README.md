@@ -1,1 +1,1 @@
-# marytts-de-fem
+MaryTTS docker image with female german default voice
