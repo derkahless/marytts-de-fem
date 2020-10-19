@@ -1,3 +1,3 @@
-MaryTTS with female ferman voice
+MaryTTS with female german voice
 
 
